@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "YwfVQozF67cjoLvHoeBYTb+qJqPbVxqJ3h4HZnkvkQ51brHFK12UnyO4+V6+9/wWwiP1UiPaiq1e6he11d1vpQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Le Trung\\Desktop\\C#\\Basic_demo\\_git\\Partical\\Partical.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Le Trung\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.13\\microsoft.netcore.app.host.win-x64.5.0.13.nupkg.sha512"
+  ],
+  "logs": []
+}

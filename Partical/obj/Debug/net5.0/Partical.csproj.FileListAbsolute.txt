@@ -1,0 +1,15 @@
+C:\Users\Le Trung\Desktop\C#\Basic_demo\Partical\bin\Debug\net5.0\Partical.exe
+C:\Users\Le Trung\Desktop\C#\Basic_demo\Partical\bin\Debug\net5.0\Partical.deps.json
+C:\Users\Le Trung\Desktop\C#\Basic_demo\Partical\bin\Debug\net5.0\Partical.runtimeconfig.json
+C:\Users\Le Trung\Desktop\C#\Basic_demo\Partical\bin\Debug\net5.0\Partical.runtimeconfig.dev.json
+C:\Users\Le Trung\Desktop\C#\Basic_demo\Partical\bin\Debug\net5.0\Partical.dll
+C:\Users\Le Trung\Desktop\C#\Basic_demo\Partical\bin\Debug\net5.0\ref\Partical.dll
+C:\Users\Le Trung\Desktop\C#\Basic_demo\Partical\bin\Debug\net5.0\Partical.pdb
+C:\Users\Le Trung\Desktop\C#\Basic_demo\Partical\obj\Debug\net5.0\Partical.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Le Trung\Desktop\C#\Basic_demo\Partical\obj\Debug\net5.0\Partical.AssemblyInfoInputs.cache
+C:\Users\Le Trung\Desktop\C#\Basic_demo\Partical\obj\Debug\net5.0\Partical.AssemblyInfo.cs
+C:\Users\Le Trung\Desktop\C#\Basic_demo\Partical\obj\Debug\net5.0\Partical.csproj.CoreCompileInputs.cache
+C:\Users\Le Trung\Desktop\C#\Basic_demo\Partical\obj\Debug\net5.0\Partical.dll
+C:\Users\Le Trung\Desktop\C#\Basic_demo\Partical\obj\Debug\net5.0\ref\Partical.dll
+C:\Users\Le Trung\Desktop\C#\Basic_demo\Partical\obj\Debug\net5.0\Partical.pdb
+C:\Users\Le Trung\Desktop\C#\Basic_demo\Partical\obj\Debug\net5.0\Partical.genruntimeconfig.cache

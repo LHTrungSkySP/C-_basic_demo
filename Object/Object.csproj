@@ -1,0 +1,9 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>net5.0-windows</TargetFramework>
+    <BaseIntermediateOutputPath>C:\Users\Le Trung\Desktop\C#\Basic_demo\Partical\obj</BaseIntermediateOutputPath>
+  </PropertyGroup>
+
+</Project>

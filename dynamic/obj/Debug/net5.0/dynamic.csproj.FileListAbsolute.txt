@@ -1,0 +1,15 @@
+C:\Users\Le Trung\Desktop\C#\ConsoleApp1\dynamic\bin\Debug\net5.0\dynamic.exe
+C:\Users\Le Trung\Desktop\C#\ConsoleApp1\dynamic\bin\Debug\net5.0\dynamic.deps.json
+C:\Users\Le Trung\Desktop\C#\ConsoleApp1\dynamic\bin\Debug\net5.0\dynamic.runtimeconfig.json
+C:\Users\Le Trung\Desktop\C#\ConsoleApp1\dynamic\bin\Debug\net5.0\dynamic.runtimeconfig.dev.json
+C:\Users\Le Trung\Desktop\C#\ConsoleApp1\dynamic\bin\Debug\net5.0\dynamic.dll
+C:\Users\Le Trung\Desktop\C#\ConsoleApp1\dynamic\bin\Debug\net5.0\ref\dynamic.dll
+C:\Users\Le Trung\Desktop\C#\ConsoleApp1\dynamic\bin\Debug\net5.0\dynamic.pdb
+C:\Users\Le Trung\Desktop\C#\ConsoleApp1\dynamic\obj\Debug\net5.0\dynamic.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Le Trung\Desktop\C#\ConsoleApp1\dynamic\obj\Debug\net5.0\dynamic.AssemblyInfoInputs.cache
+C:\Users\Le Trung\Desktop\C#\ConsoleApp1\dynamic\obj\Debug\net5.0\dynamic.AssemblyInfo.cs
+C:\Users\Le Trung\Desktop\C#\ConsoleApp1\dynamic\obj\Debug\net5.0\dynamic.csproj.CoreCompileInputs.cache
+C:\Users\Le Trung\Desktop\C#\ConsoleApp1\dynamic\obj\Debug\net5.0\dynamic.dll
+C:\Users\Le Trung\Desktop\C#\ConsoleApp1\dynamic\obj\Debug\net5.0\ref\dynamic.dll
+C:\Users\Le Trung\Desktop\C#\ConsoleApp1\dynamic\obj\Debug\net5.0\dynamic.pdb
+C:\Users\Le Trung\Desktop\C#\ConsoleApp1\dynamic\obj\Debug\net5.0\dynamic.genruntimeconfig.cache
